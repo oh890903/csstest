@@ -31,7 +31,7 @@
             <dc:creator>
                 <![CDATA[Riley Cullen]]>
             </dc:creator>
-            <pubDate>Mon, 10 Mar 2023 17:01:15 +0000</pubDate>
+            <pubDate>Mon, 10 Mar 2000 17:01:15 +0000</pubDate>
             <category>
                 <![CDATA[Customer Experience]]>
             </category>
@@ -55,5 +55,5 @@
 
 
         </item>
-        <item></channel>
+        </channel>
     </rss>
