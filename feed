@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WP Engine</title>
+	<atom:link href="https://wpengine.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wpengine.com</link>
+	<description>Managed WordPress Hosting</description>
+	<lastBuildDate>Mon, 06 Mar 2023 22:21:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://wpengine.com/wp-content/uploads/2017/12/cropped-apple-touch-icon-512x512-32x32.png</url>
+	<title>WP Engine</title>
+	<link>https://wpengine.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WP Engine Snags a Stevie Award for Excellence in Service</title>
+		<link>https://wpengine.com/blog/silver-stevie-customer-support-2023/</link>
+					<comments>https://wpengine.com/blog/silver-stevie-customer-support-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[Riley Cullen]]></dc:creator>
+		<pubDate>Mon, 06 Mar 2023 17:01:15 +0000</pubDate>
+				<category><![CDATA[Customer Experience]]></category>
+		<category><![CDATA[Support]]></category>
+		<category><![CDATA[stevie awards]]></category>
+		<category><![CDATA[Stevies]]></category>
+		<guid isPermaLink="false">https://wpengine.com/?p=141150</guid>
+
+					<description><![CDATA[At WP Engine, our core values have always guided our mission, and one of our core values is to remain Customer Inspired in all we do. We aim to amaze our customers with our service, expertise, and transparency, choosing to build long lasting relationships that help our customers succeed. We’re so honored that the hard<span class="tile__ellipses">&#8230;</span><span class="tile__ellipses--animated"></span>]]></description>
+		
+					<wfw:commentRss>https://wpengine.com/blog/silver-stevie-customer-support-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A Complete Guide to Digital Marketing for Manufacturers [+ 10 Must-Have Tools]</title>
+		<link>https://wpengine.com/blog/a-complete-guide-to-digital-marketing-for-manufacturers-10-must-have-tools/</link>
+					<comments>https://wpengine.com/blog/a-complete-guide-to-digital-marketing-for-manufacturers-10-must-have-tools/#respond</comments>
+		
+		<dc:creator><![CDATA[WP Engine]]></dc:creator>
+		<pubDate>Tue, 28 Feb 2023 15:14:00 +0000</pubDate>
+				<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[Site Speed and Performance]]></category>
+		<guid isPermaLink="false">https://wpengine.com/?p=139553</guid>
+
+					<description><![CDATA[Buyers across every industry need information to make the best decisions, and according to Gartner B2B buyers spend the largest chunk of their buying time doing online research.&#160; As your prospective clients are increasingly reliant on online research to help them determine which companies to work with, it&#8217;s essential to prioritize digital marketing in order<span class="tile__ellipses">&#8230;</span><span class="tile__ellipses--animated"></span>]]></description>
+		
+					<wfw:commentRss>https://wpengine.com/blog/a-complete-guide-to-digital-marketing-for-manufacturers-10-must-have-tools/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WP Engine’s Fourth Annual DE{CODE} Conference Doubles Registrations Fueling Interest in Open Source Innovation</title>
+		<link>https://wpengine.com/blog/wp-engines-fourth-annual-decode-conference-doubles-registrations-fueling-interest-in-open-source-innovation/</link>
+					<comments>https://wpengine.com/blog/wp-engines-fourth-annual-decode-conference-doubles-registrations-fueling-interest-in-open-source-innovation/#respond</comments>
+		
+		<dc:creator><![CDATA[WP Engine]]></dc:creator>
+		<pubDate>Mon, 27 Feb 2023 13:00:00 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<guid isPermaLink="false">https://wpengine.com/?p=140741</guid>
+
+					<description><![CDATA[AUSTIN, Texas—FEB 27, 2023—WP Engine, the world&#8217;s most trusted WordPress platform, today announced registration is open for its fourth annual developer conference, DE{CODE} 2023. This completely free and 100% virtual event dedicated to sharing technical knowledge with the global WordPress community highlights WP Engine’s commitment to open source innovation and contribution. Since launching the first<span class="tile__ellipses">&#8230;</span><span class="tile__ellipses--animated"></span>]]></description>
+		
+					<wfw:commentRss>https://wpengine.com/blog/wp-engines-fourth-annual-decode-conference-doubles-registrations-fueling-interest-in-open-source-innovation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Voting is Open for Plugin Madness 2023!</title>
+		<link>https://wpengine.com/blog/voting-now-open-for-torques-plugin-madness/</link>
+					<comments>https://wpengine.com/blog/voting-now-open-for-torques-plugin-madness/#respond</comments>
+		
+		<dc:creator><![CDATA[Riley Cullen]]></dc:creator>
+		<pubDate>Mon, 27 Feb 2023 12:07:00 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[WordPress Community]]></category>
+		<guid isPermaLink="false">https://wpengine.com/?p=115853</guid>
+
+					<description><![CDATA[The day has finally come: Voting is open for the eighth annual Plugin Madness competition sponsored by Torque Magazine! Each year, Plugin Madness shines a light on the extensive catalog of plugins available in the WordPress Plugin Repository with a friendly, bracket-style competition that pits the best of the best against one another.&#160;&#160;&#160; The tournament<span class="tile__ellipses">&#8230;</span><span class="tile__ellipses--animated"></span>]]></description>
+		
+					<wfw:commentRss>https://wpengine.com/blog/voting-now-open-for-torques-plugin-madness/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WP Engine Honors Black History Month</title>
+		<link>https://wpengine.com/blog/black-history-month-2023/</link>
+					<comments>https://wpengine.com/blog/black-history-month-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[Riley Cullen]]></dc:creator>
+		<pubDate>Fri, 24 Feb 2023 21:37:31 +0000</pubDate>
+				<category><![CDATA[Culture]]></category>
+		<guid isPermaLink="false">https://wpengine.com/?p=140771</guid>
+
+					<description><![CDATA[Each year, Black History Month provides an opportunity to recognize the contributions of Black Americans and raise awareness of past and present struggles facing the Black community.&#160; What was once a week-long celebration during the second week of February (coinciding with the birthdays of Frederick Douglass and Abraham Lincoln) Black History Month is today celebrated<span class="tile__ellipses">&#8230;</span><span class="tile__ellipses--animated"></span>]]></description>
+		
+					<wfw:commentRss>https://wpengine.com/blog/black-history-month-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>2022 Atlas Year-in-Review</title>
+		<link>https://wpengine.com/blog/2022-atlas-year-in-review/</link>
+					<comments>https://wpengine.com/blog/2022-atlas-year-in-review/#respond</comments>
+		
+		<dc:creator><![CDATA[Britt Dreisbach]]></dc:creator>
+		<pubDate>Wed, 08 Feb 2023 21:27:47 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[Product Updates]]></category>
+		<guid isPermaLink="false">https://wpengine.com/?p=139934</guid>
+
+					<description><![CDATA[WP Engine&#8217;s platform for headless WordPress, Atlas, has seen incredible growth over the past year, thanks to a full suite of products supported by many of our internal teams. Throughout 2022, those teams and products led the way as WP Engine made significant strides in the headless WordPress space. We’re excited to share some of<span class="tile__ellipses">&#8230;</span><span class="tile__ellipses--animated"></span>]]></description>
+		
+					<wfw:commentRss>https://wpengine.com/blog/2022-atlas-year-in-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Find WP Engine at WordCamp Asia</title>
+		<link>https://wpengine.com/blog/find-wp-engine-at-wordcamp-asia/</link>
+					<comments>https://wpengine.com/blog/find-wp-engine-at-wordcamp-asia/#respond</comments>
+		
+		<dc:creator><![CDATA[Riley Cullen]]></dc:creator>
+		<pubDate>Tue, 07 Feb 2023 23:12:29 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">https://wpengine.com/?p=139887</guid>
+
+					<description><![CDATA[February 17–19, WordPress community members from across the region will gather in Bangkok, Thailand for WordCamp Asia.&#160; While this is the first WordCamp to be held in Asia (other WordCamps have been held in the U.S., Europe, and Central America), it will undoubtedly be an excellent opportunity for WordPress community members to network, learn about<span class="tile__ellipses">&#8230;</span><span class="tile__ellipses--animated"></span>]]></description>
+		
+					<wfw:commentRss>https://wpengine.com/blog/find-wp-engine-at-wordcamp-asia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Shoot Your Shot: Plugin Madness Nominations are Open!</title>
+		<link>https://wpengine.com/blog/plugin-madness-nominations-open-2023/</link>
+					<comments>https://wpengine.com/blog/plugin-madness-nominations-open-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[Riley Cullen]]></dc:creator>
+		<pubDate>Mon, 06 Feb 2023 18:00:43 +0000</pubDate>
+				<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[WordPress Community]]></category>
+		<category><![CDATA[plugin madness]]></category>
+		<guid isPermaLink="false">https://wpengine.com/?p=139859</guid>
+
+					<description><![CDATA[March Madness brings out the best in collegiate basketball, and this year, Torque Magazine’s eighth-annual Plugin Madness competition is here to do the same for WordPress. The bracket-style contest pits the best of the best plugins from across the WordPress ecosystem against one another to find out which one the community loves most. With more<span class="tile__ellipses">&#8230;</span><span class="tile__ellipses--animated"></span>]]></description>
+		
+					<wfw:commentRss>https://wpengine.com/blog/plugin-madness-nominations-open-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Introducing the Atlas BigCommerce Blueprint</title>
+		<link>https://wpengine.com/blog/composable-commerce-atlas/</link>
+					<comments>https://wpengine.com/blog/composable-commerce-atlas/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Dailey]]></dc:creator>
+		<pubDate>Tue, 31 Jan 2023 16:23:14 +0000</pubDate>
+				<category><![CDATA[Agency]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ecommerce]]></category>
+		<category><![CDATA[Atlas]]></category>
+		<category><![CDATA[eCommerce]]></category>
+		<category><![CDATA[headless]]></category>
+		<guid isPermaLink="false">https://wpengine.com/?p=139473</guid>
+
+					<description><![CDATA[End-to-end headless eCommerce for WordPress is live! The official BigCommerce Blueprint is now available in the Atlas portal so you can spin up fully functioning headless eCommerce sites in under 10 minutes. Every merchant wants a high-powered, heavily customizable eCommerce site. They expect an easy way to manage inventory and the ability to easily personalize<span class="tile__ellipses">&#8230;</span><span class="tile__ellipses--animated"></span>]]></description>
+		
+					<wfw:commentRss>https://wpengine.com/blog/composable-commerce-atlas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Import Any WordPress Site Into Local (From Anywhere, for Free) With WP Migrate</title>
+		<link>https://wpengine.com/blog/import-any-wordpress-site-into-local-from-anywhere-for-free-with-wp-migrate/</link>
+					<comments>https://wpengine.com/blog/import-any-wordpress-site-into-local-from-anywhere-for-free-with-wp-migrate/#respond</comments>
+		
+		<dc:creator><![CDATA[Rob Stinson]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2023 22:33:47 +0000</pubDate>
+				<category><![CDATA[Product Updates]]></category>
+		<category><![CDATA[Local]]></category>
+		<category><![CDATA[local development in WordPress]]></category>
+		<category><![CDATA[migration]]></category>
+		<category><![CDATA[WP Migrate]]></category>
+		<guid isPermaLink="false">https://wpengine.com/?p=139324</guid>
+
+					<description><![CDATA[Spinning up a new website with Local is just about as easy as it gets. But what happens if you’re picking up a project that isn’t so fresh?&#160; With the latest and greatest from Local and WP Migrate, it’s easier than ever to import a site into Local, even a live site with an active<span class="tile__ellipses">&#8230;</span><span class="tile__ellipses--animated"></span>]]></description>
+		
+					<wfw:commentRss>https://wpengine.com/blog/import-any-wordpress-site-into-local-from-anywhere-for-free-with-wp-migrate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
